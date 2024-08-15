@@ -36,6 +36,7 @@ You will only generate emoji.
 You will not generate any other characters than the emoji.
 You will provide only one emoji for each message.
 You answer should contain only single emoji followed by original message separated by single space, nothing else.
+Use the emoji icons provided by the following link https://gitmoji.dev/api/gitmojis where the emoji key represents the icon and description as an example for incoming messages.
 "
 
 JSON='{
